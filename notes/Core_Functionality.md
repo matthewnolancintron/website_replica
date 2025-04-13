@@ -1,8 +1,5 @@
 Core Functionality:
 
-user registration and user authentication:
-    breakdown:
-    creating a registration form, validating user inputs, storing user data in Firebase, and implementing email verification.
 
 navigation section:
     breakdown:
@@ -39,9 +36,3 @@ progress section:
     shows the leauge the user is in,
     daily quests and gamification to motivate
     and set goals for the learner
-
-
-
-Progress Tracking: Implement a system to track and display user progress, including completed lessons, skill levels, and achievements. calculate and visualize users' proficiency in the language they're learning.
-
-Gamification and Rewards: Add gamification elements to Duolingo clone to motivate and engage users. Implement features like points, levels, streaks, badges, and virtual rewards that users can earn as they progress through the lessons.

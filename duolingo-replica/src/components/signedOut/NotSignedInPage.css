@@ -1,0 +1,70 @@
+/* MainPage.css */
+
+.notSignedInPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+    /* background-color: ghostwhite; */
+    background-image: url("https://assets.iceable.com/img/noise-transparent.png");
+  }
+  
+  header {
+    color: #5e6d6a;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: flex-start;
+    gap:1%;
+  }
+
+  .middle{
+    display: flex;
+    justify-content: center;
+    align-items:;
+  }
+
+  .mouse-icon{
+    width: 5%;
+  }
+
+  .mouse-mascot-art{
+    width: 25%;
+  }
+  
+  .animation {
+    /* Add styles for the image/gif animation */
+    margin-bottom: 20px;
+  }
+  
+  .subtext {
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .get-started-btn,
+  .login-btn {
+    background-color: #5e6d6a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .get-started-btn:hover,
+  .login-btn:hover {
+    opacity: 0.8;
+  }
+  
